@@ -1,9 +1,12 @@
 # Hi there! 👋
 
 I'm **Stephen Munyao Wambua**,
-A passionate DevOps engineer from Kenya 🇰🇪.
+Senior DevOps Engineer 
+Focused on Enterprise DevOps Maturity, Platform Engineering, DevSecOps, MlOps, AI infrastructure, LLM-powered systems, and Enterprise Integrations(API gateways, AI Gateways, Messaging platforms) 
+Tools I reach for:  Azure • Kubernetes • Docker • Terraform • AzureDevOps • GitLab  • Python • GenAI / LLMs • Ansible • Kafka  • RedHat(OCP) • Docker • IBM MQ • WSO2
 
-🌱 On Part time i serve as a **An active Member and follower of Nairobi DevOps Community** at  [Nairobi DevOps Community](https://www.devs.info.ke/pages/nairobidevops) and Cloud Native community Nairobi](https://www.linkedin.com/company/101422574/admin/feed/posts/).
+🌱 lets Connect Over Linkedin
+(https://www.linkedin.com/in/stephen-wambua-pro/)
 
 ## Tech Stack
 ### Software Development
